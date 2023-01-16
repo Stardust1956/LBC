@@ -1,6 +1,3 @@
 # LBC
 test
 add
-
-
-okk
